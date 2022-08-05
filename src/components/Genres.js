@@ -1,9 +1,10 @@
 import './App.css';
-
+import NavBar from "./NavBar";
 
 function Genres() {
   return (
   <div>
+    <NavBar />
     <div className="App">  
       <header className="App-header">
         <p>
