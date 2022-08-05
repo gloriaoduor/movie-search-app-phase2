@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## React Movie Search App
 ### Prject Description
 
-This project is a web app that allows a user to search for a movie and view the plots of matching moving names. It uses a free movies API to retrieve data 
+This project is a Single Page React App that allows a user to search for a movie and view the plots of matching moving names. It uses a free movies API to retrieve data 
 
 ### How to run 
 [Site](https://ubiquitous-phoenix-04c4f4.netlify.app/home)
