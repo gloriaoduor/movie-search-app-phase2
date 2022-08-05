@@ -13,7 +13,7 @@ root.render(
   
     <Router>
       <Routes>
-        <Route path='/home' element={<App/>} />
+        <Route path='/' element={<App/>} />
         <Route path='/genres' element={<Genres/>} />
         <Route path='/search' element={<SearchMovie/>} />
       </Routes>
