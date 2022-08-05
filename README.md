@@ -8,8 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project is a web app that allows a user to search for a movie and view the plots of matching moving names. It uses a free movies API to retrieve data 
 
 ### How to run 
-(Link to Heroku)
-
+[Site](https://ubiquitous-phoenix-04c4f4.netlify.app/home)
 ### Authored by:
 Gloria Oduor
 
