@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## React Movie Search App
-### Prject Description
+### Project Description
 
 This project is a Single Page React App that allows a user to search for a movie and view the plots of matching moving names. It uses a free movies API to retrieve data 
 
